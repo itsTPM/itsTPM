@@ -1,6 +1,7 @@
 # Hi there 👋
 ### My skills
 
+![Googling](https://img.shields.io/badge/googling-4285F4?style=for-the-badge&logo=google&logoColor=fff)
 ![HTML](https://img.shields.io/badge/html-f06529?style=for-the-badge&logo=html5&logoColor=%23fff)
 ![CSS](https://img.shields.io/badge/css-2965f1?style=for-the-badge&logo=css3&logoColor=%23fff)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=%23fff)
